@@ -27,7 +27,7 @@ client.on("message", (message) => {
     message.channel.send("pong!");
   }
   if (message.content.startsWith(prefix + "dev")) {
-    message.channel.send("The Developer Of This Bot Is: `100% not chloe#3368`");
+    message.channel.send("The Developer Of This Bot Is: `🌌Gekyume🌌#8443`");
   }
      if (message.content.startsWith(prefix + "ban")) {
         // Easy way to get member object though mentions.
