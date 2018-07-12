@@ -1,0 +1,21 @@
+{
+  "name": "gekybot",
+  "version": "2.0.3",
+  "description": "A bot mainly ment for moderation purposes.",
+  "main": "node bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0",
+    "enmap": "^0.3.2",
+    "express": "^4.15.5",
+    "moment": "^2.18.1",
+    "moment-duration-format": "^1.3.0"
+  }
+}
